@@ -1,3 +1,3 @@
 # Pensamiento Algorítmico — Docs
 
-Sitio de documentación del curso usando MkDocs Material con despliegue automático vía GitHub Pages.
+Mi nombre es Andres Jeronimo Parra Bastida, tengo 17 años y vivo en el Bagre Antioquia 
